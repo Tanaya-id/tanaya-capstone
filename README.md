@@ -14,9 +14,4 @@ Features
    4. Crop Information: Offers detailed information about recommended crops, including planting techniques and growth requirements.
    5. User-Friendly Interface: Delivers an intuitive and user-friendly interface to ensure ease of use for small farmers.
 
-# Contributors
-   1. Abdan Subekti 
-   2. Ridho Abdillah
-   3. Irbah Azhaar Nazhifah
-   4. Dhika Taufan Hidayat
-   5. Briska Irvan Mubaroq
+
