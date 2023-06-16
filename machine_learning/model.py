@@ -96,7 +96,7 @@ plt.legend()
 plt.show()
 
 # Prediction
-path = ".jpg"
+path = "predict_images/bla1.jpg"
 img = load_img(
 path,
 grayscale=False,
