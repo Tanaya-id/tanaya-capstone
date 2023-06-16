@@ -44,7 +44,7 @@ model.compile(loss='categorical_crossentropy', optimizer=tf.keras.optimizers.exp
 ), metrics=['accuracy'])
 
 
-TRAINING_DIR = "drive/MyDrive/Dataset Tanah/train/"
+TRAINING_DIR = "train/"
 training_datagen = ImageDataGenerator(
     rescale=1./255,
     rotation_range=40,
@@ -55,7 +55,7 @@ training_datagen = ImageDataGenerator(
     horizontal_flip=True,
     fill_mode='nearest')
 
-VALIDATION_DIR = "drive/MyDrive/Dataset Tanah/test/"
+VALIDATION_DIR = "test/"
 validation_datagen = ImageDataGenerator(rescale=1./255)
 
 train_generator = training_datagen.flow_from_directory(
