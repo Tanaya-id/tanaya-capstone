@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "691006708315",
+    "project_id": "tanaya-de559",
+    "storage_bucket": "tanaya-de559.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691006708315:android:4655fa061d6022ccaffd7e",
+        "android_client_info": {
+          "package_name": "com.flutterflow.homeU"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691006708315-9mok69mrlcd4se3gausj951j6tv51rik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRc78L-8DAZYYwOTWYNnDlebFbhrVYrBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691006708315-9mok69mrlcd4se3gausj951j6tv51rik.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "691006708315-84kcoodn4j0kekinqiko3v9j9cg9os01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.homeU"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
